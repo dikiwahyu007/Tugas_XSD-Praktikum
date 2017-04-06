@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pendidikan Data="Mahasiswa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="pendidikan.xsd">
+	
+	<nama>Diki Wahyu Nugraha</nama>
+	<npm>1154059</npm>
+	<kelas>2B</kelas>
+	<prodi>Diploma 4</prodi>
+	<jurusan>Teknik Informatika</jurusan>
+	<jeniskelamin>Lakilakin</jeniskelamin>
+	<alamat>bandung</alamat>
+	<emaildikiambrose@gmail.com</email>
+	<kampus nama="Politeknik Pos Indonesia">
+		<alamat>jalan sariasih no.54 Bandung</alamat>
+	</kampus>
+	
+	<nama>Jonathan Eka Ratmoko</nama>
+	<npm>4153032</npm>
+	<kelas>2B</kelas>
+	<prodi>Diploma 3</prodi>
+	<jurusan> Teknik Informatika</jurusan>
+	<jeniskelamin>Lakilaki</jeniskelamin>
+	<alamat>Jakarta</alamat>
+	<email>joenathaneka@gmail.com</email>
+	<kampus nama="Politeknik Pos Indonesia">
+		<alamat>jalan sariasih no.54 Bandung</alamat>
+	</kampus>
+	
+	<nama>Rizky Abdi Perdana</nama>
+	<npm>1154007</npm>
+	<kelas>2B</kelas>
+	<prodi>Diploma 4</prodi>
+	<jurusan>Teknik Informatika</jurusan>
+	<jeniskelamin>Lakilaki</jeniskelamin>
+	<alamat>Aceh</alamat>
+	<email>rizkyabdiperdana10@gmail.com</email>
+	<kampus nama="Politeknik Pos Indonesia">
+		<alamat>jalan sariasih no.54 Bandung</alamat>
+	</kampus>
+	
+	<nama>Tias Maulana</nama>
+	<npm>11540122</npm>
+	<kelas>2B</kelas>
+	<prodi>Diploma 4</prodi>
+	<jurusan>Teknik Informatika</jurusan>
+	<jeniskelamin>Lakilaki</jeniskelamin>
+	<alamat>Tangerang</alamat>
+	<email>tias.maulanaa@gmail.com</email>
+	<kampus nama="Politeknik Pos Indonesia">
+		<alamat>jalan sariasih no.54 Bandung</alamat>
+	</kampus>
+	
+	<nama>Novrianty Sagita Nawir</nama>
+	<npm>4154084</npm>
+	<kelas>2C</kelas>
+	<prodi>Diploma 4</prodi>
+	<jurusan>Manajemen Bisnis</jurusan>
+	<jeniskelamin>Perempuan</jeniskelamin>
+	<alamat>Pare-Pare</alamat>
+	<email>novriantysagita@yahoo.co.id</email>
+	<kampus nama="Politeknik Pos Indonesia">
+		<alamat>jalan sariasih no.54 Bandung</alamat>
+	</kampus>
+</pendidikan>
